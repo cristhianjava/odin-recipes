@@ -1,1 +1,1 @@
-# odin-recipes
+In this project, I will be creating a basic webpage using HTML, focusing on the fundamental structure of web pages. The goal is to understand and apply key concepts such as text formatting, linking, creating lists, embedding images, and organizing content using HTML tags.
